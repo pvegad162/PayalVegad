@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "total_test_runs": 1,
+    "total_elements_tested": 3,
+    "primary_failures": 1,
+    "healing_attempts": 2,
+    "healing_success": 2,
+    "healing_failure": 0,
+    "overall_accuracy_percent": 100.0
+  },
+  "healing_performance": {
+    "average_healing_time_ms": 221.9,
+    "healing_success_rate_percent": 100.0
+  },
+  "strategy_effectiveness": {
+    "scored_dom": 100.0
+  },
+  "element_type_recovery_rates": {
+    "input": 100.0,
+    "button": 100.0
+  },
+  "timestamp": "2026-04-23T15:41:20.156794"
+}
